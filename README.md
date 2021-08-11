@@ -1,2 +1,2 @@
-# ebik-gaeming
+# epik-gaeming
 sand gaeming
